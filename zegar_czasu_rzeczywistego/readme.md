@@ -1,4 +1,4 @@
-# Zegar czasu rzeczywistego
+# Real-Time Clock
 
 
 Projekt zegara czasu rzeczywistego, wyświetlającego czas w postaci : HH.MM. Kropka miga z częstotliwością 1 Hz.
