@@ -1,4 +1,4 @@
-# Prosty pomiar czasu
+# Simple time measurement 
 
 
 Układ stopera mierzy czas z dokładnością do setnych części sekundy. Kolejne naciśnięcia przycisku BTN0 wywołują następujące działanie: 
