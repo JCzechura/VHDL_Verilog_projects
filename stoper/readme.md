@@ -1,7 +1,8 @@
 # Prosty pomiar czasu
 
 
-Układ storepa czas z dokładnością do setnych części sekundy. Kolejne naciśnięcia przycisku BTN0 wywołują następujące działanie: 
+Układ stopera mierzy czas z dokładnością do setnych części sekundy. Kolejne naciśnięcia przycisku BTN0 wywołują następujące działanie: 
+
 ...START->STOP->RESET->START...
 
 Czas wyświelany jest na wyświetlaczu LED w postaci: SS.DD, gdzie: SS=sekundy, DD=setne części sekundy. Przekroczenie czasu 59.99 sekund zasygnalizowano wyświetleniem specjalnego symbolu oznaczającego przepełnienie, np. ("--.--").
